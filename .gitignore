@@ -1,0 +1,25 @@
+# Private files - never push
+consciousness/
+.secrets/
+*.asc
+*_credentials.txt
+.env.secrets
+BOB_QUICK_REF.md
+MEMORY.md
+memory/
+PERSONAL_NOTE.md
+USER.md
+IDENTITY.md
+SOUL.md
+AGENTS.md
+HEARTBEAT.md
+BOOTSTRAP.md
+TASKS.md
+brain_state.json
+
+# Sensitive data patterns
+*password*
+*credential*
+*token*
+*.key
+*.pem
